@@ -1,1 +1,2 @@
 # Store-Sales-Data
+Analyzed a transaction dataset (3455 rows, 10 columns) to identify patterns and trends. Visualizations like charts helped uncover valuable insights into customer behavior, product performance, and potentially, shipping efficiency. These findings can inform strategies around customer segmentation, pricing, and logistics. I'm always up for new data challenges, so feel free to connect if you have interesting datasets to explore! 
